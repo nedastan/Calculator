@@ -1,0 +1,27 @@
+.number {
+    -fx-background-color: #333333;
+}
+
+.number:hover {
+    -fx-background-color: #404040;
+}
+
+.number:pressed {
+    -fx-background-color: #333333;
+}
+
+.sign {
+    -fx-background-color: #e67300;
+}
+
+.sign:hover {
+    -fx-background-color: #ff8000;
+}
+
+.sign:pressed {
+    -fx-background-color: #e67300;
+}
+
+.clear {
+    -fx-background-color: #fff;
+}
